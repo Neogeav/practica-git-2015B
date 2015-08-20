@@ -1,0 +1,4 @@
+void holaMundo()
+{
+	printf("hola mundo");
+}
